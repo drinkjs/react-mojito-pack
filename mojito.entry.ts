@@ -1,0 +1,1 @@
+export const MyComponent = async ()=> (await import("./src/MyComponent")).default;

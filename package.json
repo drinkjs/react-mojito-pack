@@ -1,0 +1,31 @@
+{
+  "name": "react-mojito-pack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "mojito",
+    "dev": "mojito --dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drinkjs/react-mojito-pack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drinkjs/react-mojito-pack/issues"
+  },
+  "homepage": "https://github.com/drinkjs/react-mojito-pack#readme",
+  "devDependencies": {
+    "@drinkjs/mojito-compiler": "^1.0.5",
+    "@drinkjs/mojito-react-pack": "^1.0.0",
+    "@types/react": "^18.2.20",
+    "@types/react-dom": "^18.2.7",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
